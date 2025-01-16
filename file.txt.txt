@@ -9,3 +9,6 @@ master update
 conflict branch
 
 romote line 
+
+third line in remote master
+
